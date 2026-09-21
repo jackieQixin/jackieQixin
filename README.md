@@ -7,4 +7,4 @@ I later joined Prof. Lin Shao in National University of Singapore, my current Ph
 
 My long-term vision is to develop lifelong-learning embodied agents adaptable to real-world settings. I hope robots can enter ordinary homes to deliver elderly care and uphold human dignity, especially by supporting marginalized groups.
 
-We are looking for collaborators. If you take ownership and aspire to produce meaningful work, please get in touch. Relevant prior experience is not mandatory — we can grow together. I am always thankful to the collaborators, mentors and seniors who have guided and accompanied me along this journey.
+We are looking for collaborators. If you take ownership and aspire to produce meaningful work, please get in touch. Relevant prior experience is not mandatory. We can grow together! I am always thankful to the collaborators, mentors and seniors who have guided and accompanied me along this journey.
